@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="4kyu\NextSmallerNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="6kyu\YourOrderPlease.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\codewars\codewars.csproj">
