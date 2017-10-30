@@ -3,7 +3,7 @@
 namespace codewars
 {
     [TestFixture]
-    public class Tests
+    public class NextSmallNumberTests
     {
         [TestCase(21, ExpectedResult = 12)]
         [TestCase(907, ExpectedResult = 790)]

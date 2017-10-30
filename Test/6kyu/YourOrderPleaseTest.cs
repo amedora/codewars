@@ -4,7 +4,7 @@ using NUnit.Framework;
 namespace codewars
 {
     [TestFixture]
-    public class YourOrderPlease
+    public class YourOrderPleaseTest
     {
         [Test]
         public void Test()
